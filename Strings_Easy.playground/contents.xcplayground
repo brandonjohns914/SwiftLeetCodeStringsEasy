@@ -3,5 +3,6 @@
     <pages>
         <page name='Main Page'/>
         <page name='Roman_To_Int'/>
+        <page name='Longest Prefix'/>
     </pages>
 </playground>
