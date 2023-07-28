@@ -7,5 +7,6 @@
         <page name='Valid Parentheses'/>
         <page name='FindIndexFirstOccurrenceString'/>
         <page name='LengthOfLastWord'/>
+        <page name='AddBinary'/>
     </pages>
 </playground>
