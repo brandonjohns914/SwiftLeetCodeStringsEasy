@@ -6,5 +6,6 @@
         <page name='Longest Prefix'/>
         <page name='Valid Parentheses'/>
         <page name='FindIndexFirstOccurrenceString'/>
+        <page name='LengthOfLastWord'/>
     </pages>
 </playground>
