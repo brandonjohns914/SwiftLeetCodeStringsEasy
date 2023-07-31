@@ -8,5 +8,6 @@
         <page name='FindIndexFirstOccurrenceString'/>
         <page name='LengthOfLastWord'/>
         <page name='AddBinary'/>
+        <page name='ValidPalindrome'/>
     </pages>
 </playground>
